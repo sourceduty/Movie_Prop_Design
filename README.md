@@ -1,4 +1,4 @@
-![Movie Prop Design](https://github.com/user-attachments/assets/0bccdef6-5213-4fea-a061-fbbc8feb9785)
+![Movie Prop Design](https://github.com/user-attachments/assets/54cf87ca-817f-4d4b-a89f-e85a395059f0)
 
 > Create movie props and prop product packaging images using DALL-E 3.
 
